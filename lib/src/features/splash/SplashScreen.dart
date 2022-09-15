@@ -2,8 +2,9 @@
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:mailtemp/src/features/splash/controller/SplashController.dart';
 import 'package:mailtemp/src/utils/constants.dart';
+
+import './controllers/SplashController.dart';
 
 class SplashScreen extends StatelessWidget {
   const SplashScreen({Key? key}) : super(key: key);
@@ -37,7 +38,7 @@ class SplashScreen extends StatelessWidget {
                       style: TextStyle(
                           fontSize: 28,
                           fontWeight: FontWeight.bold,
-                          color: Colors.grey.shade800),
+                          color: Colors.grey.shade900),
                     ),
                   )
                 ],

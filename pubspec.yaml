@@ -38,6 +38,12 @@ dependencies:
   dio: ^4.0.6
   get: ^4.6.5
 
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  path_provider: ^2.0.11
+  flutter_widget_from_html: ^0.8.5
+  flutter_easyloading: ^3.0.5
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
