@@ -27,4 +27,4 @@ Flutter temporary mail project (assignment by Riseup Labs)
 - flutter_easyloading: ^3.0.5
 
 ## Download Relese APK
-https://drive.google.com/file/d/1xqB1JNB5K2oP5KAemO3fZGjL8HUjisqT/view?usp=sharing
+https://drive.google.com/drive/folders/1zgSTZ7nFIu_by2-ZEHdfWQAON-SFf4U4?usp=sharing
