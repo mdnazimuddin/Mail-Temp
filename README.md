@@ -9,7 +9,6 @@ Flutter temporary mail project (assignment by Riseup Labs)
 
 ### Home Page (Get Domain Name,Register Or Random Account,Save Accounts by Local storage[Hive NoSQL Database])
 ![lADPGSyfmpc5jnDNBQDNAtA_720_1280 jpg_720x720q90g](https://user-images.githubusercontent.com/39120158/190549343-21aa2d88-0ef7-40ef-9a6a-d5e32b0717e2.jpg)
-<!-- ![lADPGTrVlSpc9ibNBQDNAtA_720_1280 jpg_720x720q90g](https://user-images.githubusercontent.com/39120158/190549581-5e92e28d-d60a-4d1d-ae57-fa77a2c28a22.jpg) -->
 ![lADPGTO6l-DCXArNB4DNBDg_1080_1920 jpg_720x720q90g](https://user-images.githubusercontent.com/39120158/190550393-486cad6c-9fc2-4250-976c-fd04f7076131.jpg)
 
 ### Mail Inbox Screen (Get all Mail Message by Mail Address,Copy Mail Address,Delete Account,etc)
