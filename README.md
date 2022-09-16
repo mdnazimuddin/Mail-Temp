@@ -26,5 +26,5 @@ Flutter temporary mail project (assignment by Riseup Labs)
 - flutter_widget_from_html: ^0.8.5
 - flutter_easyloading: ^3.0.5
 
-## Download Relese APK
+## Download Release APK
 https://drive.google.com/drive/folders/1zgSTZ7nFIu_by2-ZEHdfWQAON-SFf4U4?usp=sharing
